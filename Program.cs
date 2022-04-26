@@ -8,7 +8,7 @@ namespace WindowsApplication
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new HomeScreen());
+            Application.Run(new formStart());
         }
     }
 }

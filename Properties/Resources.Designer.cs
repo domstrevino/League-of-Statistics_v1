@@ -63,6 +63,26 @@ namespace WindowsApplication.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap aatrox {
+            get {
+                object obj = ResourceManager.GetObject("aatrox", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clickArrow {
+            get {
+                object obj = ResourceManager.GetObject("clickArrow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Hillbilly_Gragas {
             get {
                 object obj = ResourceManager.GetObject("Hillbilly-Gragas", resourceCulture);
@@ -86,6 +106,16 @@ namespace WindowsApplication.Properties {
         internal static System.Drawing.Bitmap LeagueIcon {
             get {
                 object obj = ResourceManager.GetObject("LeagueIcon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LeagueStuff {
+            get {
+                object obj = ResourceManager.GetObject("LeagueStuff", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
