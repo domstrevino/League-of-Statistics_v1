@@ -6,4 +6,4 @@ THIS PROJECT DOES NOT WORK AT THE MOMENT and will not progress past the initial 
 
 I am in the process of redesigning the entire application using C#, ASP.NET MVC, SQL Server, and JavaScript.
 
-Please refer to the "LeagueClient" repository to follow along with the most up-to-date version of this project.
+Please refer to the [League-of-Statistics](https://github.com/domstrevino/League-of-Statistics_Backend) repository to follow along with the most up-to-date version of this project.
